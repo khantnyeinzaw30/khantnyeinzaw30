@@ -3,4 +3,5 @@
 - 🔭 I’m currently working on Vue and Laravel
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: zaw847772@gmail.com
-- ⚡ Fun fact: I don't look like someone who's so passionate about coding.
+- :yum: Fun fact: I don't look like someone who's so passionate about coding.
+- 💬 **I am actively enhancing my proficiency in Vue.js and Laravel by engaging in advanced coding practices, exploring new features, and undertaking challenging projects.**
